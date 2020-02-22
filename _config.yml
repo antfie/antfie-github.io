@@ -18,9 +18,16 @@ twitter:
   username: "antfie"
 author:
   name     : "Anthony Fielding"
-  avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "/assets/images/avatar.svg"
   bio      : "Security consultant"
-  location : "Manchester, UK" 
+  location : "Manchester, UK"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/antfie"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/antfie"
 footer:
   links:
     - label: "Twitter"
