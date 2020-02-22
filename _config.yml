@@ -38,3 +38,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/antfie"
 timezone: "Europe/London"
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
