@@ -10,10 +10,18 @@ minimal_mistakes_skin: "dark"
 subtitle: "Anthony Fielding"
 name: "Anthony Fielding"
 url: "antfie.com"
-witter:
+twitter:
   username: "antfie"
 author:
   name     : "Anthony Fielding"
   avatar   : "/assets/images/bio-photo.jpg"
   bio      : "Security consultant"
   location : "Manchester, UK" 
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/antfie"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/antfie"
