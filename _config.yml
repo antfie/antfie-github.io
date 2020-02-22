@@ -6,6 +6,10 @@ description: "Anthony Fielding"
 remote_theme: "mmistakes/minimal-mistakes@4.18.1"
 plugins:
   - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
 minimal_mistakes_skin: "dark"
 subtitle: "Anthony Fielding"
 name: "Anthony Fielding"
@@ -25,3 +29,4 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/antfie"
+timezone: "Europe/London"
