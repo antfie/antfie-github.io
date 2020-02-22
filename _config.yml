@@ -1,5 +1,7 @@
-title: Antfie
-description: Anthony Fielding
+locale: "en-GB"
+title: "Antfie"
+subtitle: "Anthony Fielding"
+description: "Anthony Fielding"
 
 # https://github.com/mmistakes/minimal-mistakes
 remote_theme: "mmistakes/minimal-mistakes@4.18.1"
