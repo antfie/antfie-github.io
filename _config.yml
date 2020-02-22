@@ -10,3 +10,10 @@ minimal_mistakes_skin: "dark"
 subtitle: "Anthony Fielding"
 name: "Anthony Fielding"
 url: "antfie.com"
+witter:
+  username: "antfie"
+author:
+  name     : "Anthony Fielding"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "Security consultant"
+  location : "Manchester, UK" 
