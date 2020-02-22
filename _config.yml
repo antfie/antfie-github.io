@@ -30,6 +30,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/antfie"
+main:
+  - title: "About"
+    url: /about/
 footer:
   links:
     - label: "Twitter"
