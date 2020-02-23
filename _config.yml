@@ -3,6 +3,7 @@ title: "Antfie"
 description: "Anthony Fielding"
 
 # https://github.com/mmistakes/minimal-mistakes
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 remote_theme: "mmistakes/minimal-mistakes@4.18.1"
 plugins:
   - jekyll-include-cache
@@ -10,7 +11,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
-minimal_mistakes_skin: "dark"
+#minimal_mistakes_skin: "dark"
 subtitle: "Anthony Fielding"
 name: "Anthony Fielding"
 url: "antfie.com"
@@ -46,14 +47,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      #author_profile: true
  # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
+      #author_profile: true
       read_time: true
       comments: true
       share: true
